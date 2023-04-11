@@ -32,14 +32,14 @@
         border: 0;
         height: var(--progHeight);
         border-radius: 20px;
-        background: var(--progColor);
+        background: white;
     }
     progress::-webkit-progress-bar {
         width: 100%;
         border: 0;
         height: var(--progHeight);
         border-radius: 20px;
-        background: white;
+        background: var(--progColor);
     }
 
     progress::-moz-progress-bar {
